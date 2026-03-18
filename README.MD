@@ -1,6 +1,6 @@
 # Hello Arduino Community
 In this repo I have made some programms to play audio with an Arduino UNO/Nano
-
+_______________________________________________________________________________________________________________
 #Warning: do NOT put the headphones in your ear it could cause issues...
 _______________________________________________________________________________________________________________
 # before staring
